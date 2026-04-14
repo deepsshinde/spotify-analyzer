@@ -33,11 +33,11 @@ mashumaro==3.14
 more-itertools==10.8.0
 msgpack==1.1.2
 narwhals==2.19.0
-networkx==3.6.1
-numpy==2.4.4
+networkx==3.4.2
+numpy==1.26.4
 orderly-set==5.5.0
 packaging==26.0
-pandas==3.0.2
+pandas==2.2.3
 parsedatetime==2.6
 pathspec==0.12.1
 pillow==12.2.0
