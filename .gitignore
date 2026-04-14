@@ -1,0 +1,7 @@
+venv/
+*.pyc
+__pycache__/
+.env
+config/secrets.yaml
+*.db
+.dbt/
